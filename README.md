@@ -1,1 +1,1 @@
-http://ip.sb
+https://us.cybershelter.online/
