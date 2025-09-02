@@ -1,2 +1,5 @@
 aaaa
 accesskey=LTAI516jC15LJpjS2Gi3iJau
+# 这是一个阿里云的测试密钥
+access_key_id = LTAI516jC15LJpjS2Gi3iJa1
+access_key_secret = abcdefghijklmnopqrstuvwxyz1234 
